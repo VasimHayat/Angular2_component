@@ -1,0 +1,2 @@
+# Angular2_component
+UNDERSTAND THE ANGULAR 2 COMPONENT
